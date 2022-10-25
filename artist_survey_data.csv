@@ -1,0 +1,103 @@
+timestamp,ID,race_ethnicity,database_language,survey_language,survey_completed_for_artist,What is your race/ethnicity?,Is English your primary language (or one of your primary languages?),How comfortable are you reading English?,How comfortable are you writing English?,Do you use a language other than English?,Is your primary language ASL/sign language (or one of your primary languages)?,Do you live with anyone that uses ASL?,Do you live with anyone that is D/deaf or hard of hearing?,Do you live with anyone that is hearing?,What is your primary language?,Do you live with anyone speaks this language?,Do you live with anyone that speaks English?,Which device do you most regularly use for emails and Zoom?,"Please list any other devices, apps, or software that you regularly use to access and use technology.",How comfortable are you using email?,How comfortable are you using Zoom?,Does anyone regularly help you use email and/or Zoom?,Do you have a helper?,helper_type,Does this person live with you?,What language(s) do they feel most comfortable using?,How comfortable are they reading English?,How comfortable are they writing English?,How comfortable are they using email?,How comfortable are they using Zoom?
+1/25/2022 14:56:02,1001,Chinese,"English, Chinese",English,1,Asian,Yes,1,1,No,,,,,,,,phone,None. She needs help and has little interest,1,1,Yes,Yes,Family,No,English,5,5,5,5
+3/17/2022 9:53:29,1002,Chinese,"English, Cantonese",English,0,Artist,Yes,3,5,Yes,No,,,,English but speaks chinese,Yes,Yes,tablet,,5,5,No,No,,,,,,,
+2/16/2022 11:03:44,1003,White,English,English,0,Caucasian,Yes,3,2,No,,,,,,,,Ipad,,3,3,Yes,Yes,Non-CG staff,Yes,English,4,4,4,4
+3/16/2022 10:07:22,1005,Chinese,English,English,1,asian,Yes,3,3,No,,,,,,,,tablet,no,1,3,No,No,,,,,,,
+2/22/2022 10:44:37,1008,Latino,Spanish,English,1,doesn't want to answer,Yes,1,2,Yes,No,,,,Spanish and English,Yes,No,other,,1,1,No,No,,,,,,,
+1/30/2022 22:35:19,1011,Filipino,English,English,0,Philipino,Yes,5,5,No,,,,,,,,computer,phone,5,5,No,No,,,,,,,
+2/10/2022 13:29:45,1012,White,N/A,English,0,N/A,Yes,1,5,No,,,,,,,,other,No zoom,1,1,No,No,,,,,,,
+1/25/2022 18:20:04,1013,White,English,English,0,White,Yes,5,5,No,,,,,,,,computer,Phone,5,5,No,No,,,,,,,
+2/22/2022 6:03:44,1014,Japanese/White,English,English,0,Japanese/White,Yes,1,1,No,,,,,,,,phone,,1,3,Yes,Yes,Family,Yes,English,5,5,5,4
+2/16/2022 12:53:21,1015,White,English,English,1,White,Yes,5,5,No,,,,,,,,other,none,1,1,No,No,,,,,,,
+3/16/2022 11:04:17,1016,White,English,English,1,dont about it,Yes,4,2,No,,,,,,,,other,laptop,4,5,No,No,,,,,,,
+1/25/2022 17:34:29,1017,Latino,Spanish,Spanish,1,Latino,Yes,4,4,Yes,No,,,,Spanish,Yes,Yes,Computadora / laptop,Mother's Ipad,4,4,Yes,Yes,Family,Yes,Spanish,4,4,4,4
+2/23/2022 14:22:47,1018,White,ASL,English,0,White,Yes,5,5,Yes,Yes,Yes,Yes,No,,,,Ipad,Phone,4,3,Yes,Yes,Non-CG staff,Yes,Asl,5,5,5,5
+2/9/2022 13:41:03,1020,White,ASL,English,0,White,No,5,4,Yes,Yes,No,No,No,,,,computer,Sorenson tv apple tablet,5,3,No,No,,,,,,,
+2/10/2022 13:18:56,1021,Black,English,English,0,African American,Yes,1,4,No,,,,,,,,other,Laptop someone helps login,1,1,Yes,Yes,Non-CG staff,No,English,5,5,5,5
+2/8/2022 14:10:02,1022,White,English,English,1,White,Yes,5,5,No,,,,,,,,computer,,1,2,Yes,Yes,Family,Yes,English,5,5,5,5
+2/16/2022 14:52:38,1023,White,English,English,1,White,Yes,5,4,No,,,,,,,,computer,Android phone,3,5,No,No,,,,,,,
+2/6/2022 19:01:11,1024,Chinese,Chinese,English,0,Asian,Yes,4,3,Yes,No,,,,English,Yes,Yes,Ipad,None,2,5,Yes,Yes,Family,No,English,5,5,5,4
+2/4/2022 14:11:52,1025,Black,English,English,0,African American,Yes,5,5,No,,,,,,,,computer,Facebook zoom,5,5,No,No,,,,,,,
+3/18/2022 11:38:33,1027,White,English,English,0,White,Yes,2,2,No,,,,,,,,other,no devices at all,1,1,No,No,,,,,,,
+1/25/2022 17:16:58,1026,White,N/A,English,1,White/Non-Hispanic (2); White/Hispanic (1),Yes,2,1,Yes,No,,,,English (3); Spanish/Secondary Language (1),Yes,Yes,tablet,,1,4,Yes,Yes,Non-CG staff,No,English,5,5,5,5
+3/24/2022 11:39:59,1029,White,English,English,1,na,Yes,4,2,No,,,,,,,,tablet,,3,2,No,No,,,,,,,
+1/25/2022 20:42:43,1030,Chinese,"ASL, Mandarin, Cantonese",English,1,Asian,No,3,3,Yes,Yes,Yes,No,Yes,,,,computer,"Ipad , Iphone",3,5,Yes,Yes,Family,Yes,English / Cantoness,4,4,4,4
+2/11/2022 16:54:35,1031,White,English,English,1,White,Yes,5,5,No,,,,,,,,tablet,I phone/ I Touch,4,5,No,No,,,,,,,
+2/21/2022 10:37:12,1032,Black,English,English,1,African American,Yes,5,5,No,,,,,,,,computer,"phone, tablet",5,5,No,No,,,,,,,
+2/23/2022 14:31:49,1033,White,ASL,English,0,White,Yes,2,2,Yes,Yes,Yes,Yes,No,,,,phone,,1,1,No,No,,,,,,,
+1/26/2022 10:26:35,1034,White,English,English,0,While,Yes,1,5,No,,,,,,,,Ipad,iPhone,1,5,No,No,,,,,,,
+2/6/2022 21:08:44,1035,White,N/A,English,1,white,Yes,5,5,No,,,,,,,,Ipad,iphone,4,4,No,No,,,,,,,
+2/8/2022 14:26:36,1036,Latino,English,English,1,Mexican,Yes,5,5,Yes,No,,,,Spanish,Yes,Yes,computer,Phone,5,4,Yes,Yes,Family,Yes,Spanish and english,5,5,5,4
+1/27/2022 10:47:28,1038,White,English,English,0,White,Yes,3,2,No,,,,,,,,phone,,2,3,No,No,,,,,,,
+2/16/2022 16:27:15,1039,White,N/A,English,0,caucasian,Yes,1,1,No,,,,,,,,Ipad,,1,2,Yes,Yes,Family,Yes,english,1,1,1,1
+1/26/2022 22:05:39,1040,Black,English,English,0,African American,Yes,5,5,No,,,,,,,,computer,,4,4,Yes,Yes,CG staff,No,English and Spanish,4,4,4,4
+3/17/2022 11:32:00,1041,White,English,English,1,White,Yes,5,5,No,,,,,,,,computer,,5,5,Yes,No,,Yes,English,5,5,5,5
+2/1/2022 18:15:24,1042,White,Spanish,Spanish,0,Mixta etnicidad,Yes,3,3,Yes,No,,,,Ingles,Yes,Yes,Computadora / laptop,ninguna,1,2,Yes,Yes,Family,Yes,Ingles,3,2,1,2
+2/8/2022 11:12:16,1044,White,English,English,0,white,Yes,5,5,No,,,,,,,,computer,iPhone,4,4,Yes,Yes,Family,Yes,English,5,5,5,5
+2/7/2022 8:26:39,1045,Middle Eastern,N/A,English,0,White,Yes,4,4,Yes,No,,,,English,Yes,Yes,computer,None,4,4,No,No,,,,,,,
+2/9/2022 11:48:42,1046,White,English,English,1,White,Yes,4,4,No,,,,,,,,Ipad,"Kindle , phone, tablet, laptop",3,5,Yes,Yes,Family,Yes,English,5,5,3,3
+3/7/2022 14:27:05,1047,White,English,English,0,White,Yes,5,5,No,,,,,,,,computer,Phone,5,5,Yes,Yes,Family,Yes,English,5,5,5,5
+1/25/2022 14:24:19,1048,Black,ASL,English,1,Black,No,1,1,Yes,Yes,Yes,Yes,No,,,,computer,,2,2,Yes,No,,Yes,American Sign Language,4,4,5,5
+2/16/2022 14:31:31,1049,White,English,English,1,white,Yes,5,3,No,,,,,,,,computer,,5,5,No,No,,,,,,,
+3/24/2022 11:29:04,1050,White,English,English,1,na,Yes,3,4,No,,,,,,,,computer,"cellphone for email, ipad",2,3,Yes,Yes,Family,Yes,english,5,5,5,5
+2/11/2022 16:36:08,1051,White,English,English,1,White/Mexican American,Yes,5,5,No,,,,,,,,phone,No other devices,5,5,No,No,,,,,,,
+3/7/2022 10:37:57,1052,White,English,English,0,Caucasion german /english,Yes,5,5,No,,,,,,,,other,Laptop,2,4,No,No,,,,,,,
+2/12/2022 11:42:21,1053,Latino,English,English,1,Caucasian/White,Yes,3,2,No,,,,,,,,Ipad,phone,1,1,Yes,Yes,Non-CG staff,Yes,English,4,4,4,4
+2/6/2022 21:48:18,1054,White,English,English,1,white,Yes,1,1,No,,,,,,,,other,She doesn't read or write,1,2,Yes,Yes,Non-CG staff,No,English or Spanish,5,5,5,5
+3/15/2022 21:12:11,1055,Black,English,English,0,ALAMEDA,Yes,5,3,No,,,,,,,,computer,,3,4,Yes,Yes,Family,Yes,Englisb,5,5,5,5
+2/8/2022 13:49:01,1056,Black,English,English,1,Black african american,Yes,4,5,No,,,,,,,,phone,,2,1,Yes,Yes,CG staff,No,English,5,5,5,5
+2/9/2022 11:57:49,1057,White,N/A,English,1,White,Yes,5,3,No,,,,,,,,phone,Use a computer sometimes,3,3,No,No,,,,,,,
+2/10/2022 22:07:57,1058,White,English,English,0,caucasian,Yes,5,5,No,,,,,,,,computer,"cell phone, tablet",2,1,Yes,Yes,Family,Yes,English,5,5,5,5
+1/25/2022 14:12:36,1059,Latino,English,English,1,Spanish decent,Yes,2,2,Yes,No,,,,spanish,No,Yes,computer,tablet,1,2,Yes,Yes,Non-CG staff,No,spanish,5,5,5,5
+1/27/2022 15:31:13,1060,White,English,English,0,White,Yes,5,4,No,,,,,,,,computer,"iphone, ipad",5,4,No,No,,,,,,,
+2/8/2022 11:35:17,1061,Latino,Spanish,Spanish,1,latino espano,No,3,2,Yes,No,,,,el espanol,Yes,No,Computadora / laptop,,4,5,No,No,,,,,,,
+3/24/2022 18:23:59,1063,Chinese,"English, Mandarin",English,1,Chinese,Yes,3,3,Yes,No,,,,English,Yes,Yes,Ipad,iphone,1,3,Yes,Yes,Family,Yes,English and Chinese,4,3,2,4
+1/25/2022 16:49:31,1062,white/Chinese/native american,English,English,0,", European mix, Chinese, Native American",Yes,5,5,No,,,,,,,,computer,,5,4,No,No,,,,,,,
+3/15/2022 14:32:12,1064,Black,English,English,0,Black,Yes,5,5,No,,,,,,,,computer,Phone,5,5,Yes,Yes,Family,Yes,English,5,5,5,2
+2/16/2022 18:43:41,1065,Chinese,Chinese,English,1,Chinese,Yes,1,1,Yes,No,,,,English/cantonese,Yes,Yes,computer,,1,1,Yes,Yes,Family,Yes,Cantonese,3,2,5,3
+1/26/2022 8:37:44,1066,White,English,English,0,Filipino,Yes,5,5,No,,,,,,,,phone,"Chromebook, tablet",4,5,No,No,,,,,,,
+1/25/2022 15:24:45,1069,White,English,English,1,White,Yes,1,1,No,,,,,,,,Ipad,Iphone,1,2,Yes,Yes,Family,No,English,5,5,5,5
+2/11/2022 21:42:00,1071,Latino,English,English,1,Mexican American,Yes,5,5,No,,,,,,,,phone,,2,1,Yes,Yes,Family,Yes,English,5,5,2,1
+2/23/2022 16:27:08,1072,White,English,English,1,White,Yes,4,5,No,,,,,,,,tablet,Phone,3,2,Yes,Yes,Non-CG staff,No,English,5,5,5,5
+3/23/2022 10:12:25,1073,White,ASL,English,1,Na,No,2,1,Yes,Yes,Yes,Yes,No,,,,other,,1,1,Yes,Yes,Other,Yes,Asl,5,3,5,5
+2/4/2022 11:23:26,1074,Latino,Spanish,Spanish,1,mexicana,No,3,3,Yes,No,,,,espanol,No,Yes,Computadora / laptop,celular,4,1,Yes,Yes,CG staff,No,English,5,5,5,5
+2/10/2022 13:26:43,1075,Filipino,English,English,0,Philipino,Yes,5,5,Yes,No,,,,English & Tagalog,No,Yes,phone,Laptop,5,5,No,No,,,,,,,
+2/2/2022 8:03:04,1077,White,English,English,1,White,Yes,2,2,No,,,,,,,,computer,"Phone, tablet",2,4,Yes,Yes,Family,Yes,English,5,5,5,5
+1/25/2022 14:21:00,1079,Black,English,English,0,African American,Yes,5,5,No,,,,,,,,computer,Consumer Cellular Grandpad,1,1,Yes,Yes,Family,Yes,English,5,5,5,5
+1/25/2022 17:16:58,1081,White,English,English,1,White/Non-Hispanic (2); White/Hispanic (1),Yes,2,1,Yes,No,,,,English (3); Spanish/Secondary Language (1),Yes,Yes,tablet,,1,4,Yes,Yes,Non-CG staff,No,English,5,5,5,5
+2/16/2022 14:25:43,1082,Latino,Spanish,Spanish,1,latina,Yes,2,2,Yes,No,,,,el espanish,Yes,parents speak a little english,tableta,,5,4,No,No,,,,,,,
+2/16/2022 17:04:37,1083,White,N/A,English,1,"Litvak/Swedish, identifies as Ashkenazi eastern European Jewish",Yes,5,5,No,,,,,,,,computer,n/a,5,5,No,No,,,,,,,
+3/25/2022 10:36:00,1085,White,English,English,1,na,Yes,5,5,No,,,,,,,,other,"laptop, brailler,",1,4,Yes,Yes,Non-CG staff,No,english,5,5,5,5
+1/25/2022 17:16:58,1086,White,N/A,English,1,White/Non-Hispanic (2); White/Hispanic (1),Yes,2,1,Yes,No,,,,English (3); Spanish/Secondary Language (1),Yes,Yes,tablet,,1,4,Yes,Yes,Non-CG staff,No,English,5,5,5,5
+2/17/2022 19:25:01,1087,White,English,English,1,white,Yes,1,1,No,,,,,,,,computer,Ipad,3,3,Yes,Yes,Family,Yes,english,5,5,5,5
+2/17/2022 21:45:49,1088,latino/black,English,English,0,black/latino,Yes,4,4,Yes,No,,,,english,Yes,Yes,computer,"cellular, Ipod, tablet",3,3,Yes,Yes,Family,Yes,english,4,4,4,4
+2/27/2022 8:30:36,1089,White,English,English,0,Union City,Yes,5,5,No,,,,,,,,phone,,3,5,No,No,,,,,,,
+1/25/2022 16:11:56,1090,White,"English, Sign Support",English,1,caucasian,Yes,1,1,No,,,,,,,,computer,,1,1,Yes,Yes,Family,Yes,english,5,5,5,4
+1/25/2022 14:55:06,1091,White,English,English,1,caucasian/ latino,Yes,4,4,No,,,,,,,,computer,casual ipad use,2,4,Yes,Yes,Family,Yes,english,4,4,4,4
+3/4/2022 13:10:25,1093,White,English,English,0,White,Yes,5,2,No,,,,,,,,tablet,,2,5,No,No,,,,,,,
+1/25/2022 15:30:57,1095,Black,English,English,1,African American,Yes,4,4,No,,,,,,,,Ipad,Computer apple,5,4,No,No,,,,,,,
+2/17/2022 11:41:07,1097,Black,English,English,1,Black/ Hispanic,Yes,5,5,No,,,,,,,,computer,"Ipad, Iphone or laptop",5,5,Yes,Yes,Family,Yes,English,5,5,5,5
+1/25/2022 14:20:09,1099,White,English,English,0,white,Yes,2,3,No,,,,,,,,computer,phone,1,3,Yes,Yes,Family,Yes,english,5,5,5,5
+3/17/2022 9:56:56,1101,Black,English,English,1,African,Yes,5,5,No,,,,,,,,computer,,5,5,No,No,,,,,,,
+2/4/2022 13:15:27,1102,Latino,Spanish,Spanish,1,latina,No,1,1,Yes,No,,,,espanol,Yes,No,tableta,,2,2,Yes,Yes,Family,Yes,espanol,3,3,5,3
+2/8/2022 13:43:14,1103,Black,English,English,1,African american,Yes,5,5,No,,,,,,,,other,No tech,2,2,No,No,,,,,,,
+3/2/2022 23:48:08,1104,White,English,English,1,White/Black,Yes,5,5,No,,,,,,,,computer,,5,5,Yes,Yes,Non-CG staff,Yes,English,5,5,5,5
+3/22/2022 11:36:08,1105,Black,English,English,1,african american,Yes,5,5,No,,,,,,,,phone,tablet,5,1,No,No,,,,,,,
+3/2/2022 23:48:08,1106,Black,English,English,1,White/Black,Yes,5,5,No,,,,,,,,computer,,5,5,Yes,Yes,Non-CG staff,Yes,English,5,5,5,5
+2/9/2022 16:50:30,1107,White,English,English,0,Oakland,Yes,1,1,No,,,,,,,,computer,None,1,1,No,No,,,,,,,
+1/25/2022 16:08:39,1108,White,English,English,0,Oakland,Yes,3,4,No,,,,,,,,phone,,5,5,No,No,,,,,,,
+2/16/2022 17:43:28,1109,Chinese,English,English,0,Chinese,Yes,4,4,No,,,,,,,,computer,"iPhone, tablet",5,1,No,No,,,,,,,
+2/9/2022 13:53:15,1110,Chinese,"ASL, Chinese ASL",English,1,Asian / Chinese,No,3,3,Yes,Yes,No,No,No,,,,tablet,Sorenson. Only iPad and vide phone,1,2,Yes,Yes,Non-CG staff,No,"Deaf, ASL",5,5,5,5
+1/25/2022 14:40:33,1112,Vietnamese,English,English,0,Vietnamese,Yes,5,4,Yes,No,,,,English,Yes,Yes,phone,Ipad gmail zoom,5,5,Yes,Yes,Non-CG staff,No,Vietnamese,5,5,5,5
+2/8/2022 14:16:28,1111,Filipino,English,English,1,Asian,Yes,5,2,No,,,,,,,,other,Chromebook,1,3,No,No,,,,,,,
+1/25/2022 15:04:18,1114,White,English,English,0,White,Yes,5,5,No,,,,,,,,computer,Ipad,5,5,No,No,,,,,,,
+2/23/2022 14:27:13,1113,White,ASL,English,0,White,Yes,5,5,Yes,Yes,Yes,Yes,No,,,,Ipad,Phone,5,3,No,No,,,,,,,
+1/25/2022 15:23:15,1115,Black,English,English,0,Africanamerican,Yes,5,5,No,,,,,,,,computer,"Pc, phone",5,5,No,No,,,,,,,
+3/17/2022 10:18:31,1116,Black,English,English,0,African American,Yes,4,4,No,,,,,,,,Ipad,No,4,1,No,No,,,,,,,
+3/23/2022 10:57:31,1117,White,ASL,English,1,Na,No,5,5,Yes,Yes,No,No,No,,,,phone,Tech 3 braille phone texts mostly,3,5,No,No,,,,,,,
+2/1/2022 13:59:29,1119,White,N/A,English,1,White,Yes,4,3,No,,,,,,,,tablet,"Val uses her cellphone to browse, call home from handicap bus. Google only. Mom uses Zoom, e-mail and text messages for Valerie",1,1,Yes,Yes,Family,Yes,English,5,5,5,4
+2/9/2022 11:56:55,1122,White,ASL,English,1,White,No,3,4,Yes,Yes,Yes,Yes,No,,,,other,Laptop,2,1,Yes,Yes,Family,Yes,Asl,5,5,5,5
+3/22/2022 11:28:46,1123,Black,English,English,1,na,Yes,5,5,No,,,,,,,,tablet,computer,5,3,Yes,Yes,Family,No,english,5,5,5,5
+2/7/2022 22:00:36,1125,Chinese,"Cantonese, Mandarin",English,1,Chinese,No,1,1,Yes,No,,,,Chinese,Yes,No,phone,N/A,1,1,Yes,Yes,Family,Yes,Chinese,1,1,1,1
+2/8/2022 14:03:36,1126,Black,English,English,1,African american,Yes,3,3,No,,,,,,,,computer,,2,3,No,No,,,,,,,
+,1068,Middle Eastern,Dari,English,1,Afghani,No,1,1,Yes,No,,,,Dari farsi,No,Yes,other,,1,1,No,No,,,,,,,
